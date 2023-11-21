@@ -66,3 +66,68 @@
 ### 13.Display a list of all the commands that contain the keyword passwd in their man page.
 
 ![last_q](https://github.com/ayamaher205/Red-Hat-/assets/79773094/ce8f6e62-49c6-47d8-8350-144006d1fa70)
+
+
+
+
+## lab Two
+
+### 1. Create a user account with the following attribute
+#### username: islam
+#### Fullname/comment: Islam Askar
+#### Password: islam
+####
+![Q1-2](https://github.com/ayamaher205/Red-Hat-/assets/79773094/0fb4a4bb-cc21-4127-913b-d34a45a00500)
+
+####
+
+### 1. Create a user account with the following attribute
+#### username: baduser
+#### Fullname/comment: Bad User
+#### Password: baduser
+####
+####
+####
+![Q2-2](https://github.com/ayamaher205/Red-Hat-/assets/79773094/5374632c-a0d4-4ec0-a119-87cb1e9d356e)
+
+### 3.Create a supplementary (Secondary) group called pgroup with group ID of 30000
+#### ![Q3-2-2](https://github.com/ayamaher205/Red-Hat-/assets/79773094/7c2c2ddd-6d22-4674-9832-b8386253e8ee)
+
+##### 
+#####     
+
+### 4. Create a supplementary group called badgroup:
+![Q4-2](https://github.com/ayamaher205/Red-Hat-/assets/79773094/247f73df-c10b-4d2d-becd-18ff8af9eada)
+
+####
+
+
+### 5. Add islam user to the pgroup group as a supplementary group:
+####
+####
+
+![Q5-2](https://github.com/ayamaher205/Red-Hat-/assets/79773094/52f073c9-99db-42fc-9fd7-e2075f0ddb17)
+
+
+### 6. Modify the password of islam's account to password:
+####
+####
+![Q6-2](https://github.com/ayamaher205/Red-Hat-/assets/79773094/6c562be9-ec58-4218-a1d5-b6d64cedd80b)
+
+
+### 7. Modify islam's account so the password expires after 30 days:
+####
+####
+
+![Q7-2-2](https://github.com/ayamaher205/Red-Hat-/assets/79773094/67a1a60c-dbab-4018-a3b9-90981951857c)
+
+### 8. Lock bad user account so he can't log in:
+####
+![Q8-2](https://github.com/ayamaher205/Red-Hat-/assets/79773094/ddfc6b19-e94d-4e06-9f5a-a52dc20efbe9)
+
+### 9. Delete bad user account:
+![Q9-2](https://github.com/ayamaher205/Red-Hat-/assets/79773094/8d9a44af-bcb3-484f-b929-c8f6ae738ded)
+
+### 10.Delete the supplementary group called badgroup.
+![Q10-2](https://github.com/ayamaher205/Red-Hat-/assets/79773094/a2cb95aa-fbea-447d-99d1-55e6c111bf40)
+
